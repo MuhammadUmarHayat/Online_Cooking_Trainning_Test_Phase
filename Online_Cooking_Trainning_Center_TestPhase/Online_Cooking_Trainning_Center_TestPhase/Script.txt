@@ -1,0 +1,4 @@
+﻿
+test phase db
+users(userid,name,password,usertype,gender,address,phonNo,status,email)
+recipes(foodtype,title,ingrediants,description,requiredTime,photo,Author,date)
